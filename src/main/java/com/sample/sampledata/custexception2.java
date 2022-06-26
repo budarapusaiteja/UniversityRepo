@@ -28,6 +28,7 @@ public class custexception2 extends Exception {
 	public void setErrmess(String errmess) {
 		this.errmess = errmess;
 	}
+	
 	public custexception2(String m) {
 		super(m);
 		// TODO Auto-generated constructor stub
