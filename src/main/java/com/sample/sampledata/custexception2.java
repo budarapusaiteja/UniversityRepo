@@ -24,6 +24,7 @@ public class custexception2 extends Exception {
 	public String getErrmess() {
 		return errmess;
 	}
+	
 	public void setErrmess(String errmess) {
 		this.errmess = errmess;
 	}
